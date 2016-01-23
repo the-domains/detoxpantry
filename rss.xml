@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[DetoxPantry]]></title>
+        <description><![CDATA[DetoxPantry]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 23 Jan 2016 03:32:45 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://fbcdn-photos-a-a.akamaihd.net/hphotos-ak-xat1/v/t1.0-0/s526x395/1535740_936093063113807_4722836732930911390_n.jpg?oh=4ac31aefd20a69b6507b0431362f229a&oe=56FDCCB7&__gda__=1463385203_b399f58710672559b6ee965496b865ac">]]></description>
+            <link>undefined02cec3b6-3f3a-435f-83e9-ae7d3639cc2e/index.html</link>
+            <guid isPermaLink="false">02cec3b6-3f3a-435f-83e9-ae7d3639cc2e</guid>
+            <pubDate>Sat, 23 Jan 2016 03:32:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
