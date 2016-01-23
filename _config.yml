@@ -1,0 +1,28 @@
+name: DetoxPantry
+favicon: null
+layout_spectrum: 0.01505016814917326
+typography_spectrum: 0.1704322414007038
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.18780664866790175
+  lightness: 0.811504557961598
+  saturation: 0.4624893425498158
+  rhythmicContrast: 0.09840630856342614
+purpose: []
